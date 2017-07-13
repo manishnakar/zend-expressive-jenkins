@@ -5,6 +5,8 @@
 
 *Develop PSR-7 middleware applications in minutes!*
 
+checking
+
 zend-expressive builds on [zend-stratigility](https://github.com/zendframework/zend-stratigility)
 to provide a minimalist PSR-7 middleware framework for PHP, with the following
 features:
